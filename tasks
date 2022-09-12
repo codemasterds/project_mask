@@ -1,0 +1,10 @@
+We need to build a dektop interface which can mask the system ip address from an api provided from the client.
+for that we need a drop down with different country locations where he can select.
+and we alos need the refresh button which will refresh the system ip address.
+
+
+steps
+1> desktop application or web application
+I am chossing desktop application.
+
+2> what are the packages that required for the buliding the application
